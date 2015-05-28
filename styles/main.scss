@@ -19,3 +19,30 @@ body {
   background-color: $base-background-color;
   color: $base-font-color;
 }
+
+.accordionMenu {
+  background-color: slategray;
+  color: white;
+  max-width: 25%;
+  border: 2px solid dimgray; 
+  border-radius: 6px;
+}
+
+h3 {
+  margin: 0;
+  border: 2px solid dimgray; 
+  text-indent: 15px;
+  background-color: slategray;
+}
+
+ul {
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  list-style: none;
+}
+
+li {
+  background-color: #E5E5E5;
+  border: 1px solid #CCCCCC;
+}
